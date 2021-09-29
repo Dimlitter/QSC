@@ -11,7 +11,6 @@ var intervalID = null; // 计时器ID
 //     // console.log(ev);
 //     if (ev.buttons == 1) // 假定长按左键蓄力
 //         // if (intervalID == null)
-//         //     // 设置100ms后t自增，设置过小的数字会对网页质量造成影响
 //         //     intervalID = setInterval(function () { ++t; }, 100);
 //         startTime = ev.timeStamp;
 // }
